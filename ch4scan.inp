@@ -1,5 +1,5 @@
-%chk=H20_MC
-#p CASSCF(6,4)/3-21G Opt Freq
+%chk=H20_CIS
+#p CIS/3-21G Opt Freq
 
 H20 MCSCF/3-21G
 
