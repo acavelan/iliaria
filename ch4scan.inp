@@ -1,5 +1,5 @@
-%chk=H20_CIS
-#p CIS/3-21G Opt Freq
+%chk=H2O_MC_EXC
+#p CASSCF(6,4)/3-21G
 
 H20 MCSCF/3-21G
 
@@ -9,4 +9,12 @@ H 1 ROH
 H 1 ROH 2 AHOH
 
 ROH=0.95
-AHOH=105.0
+AHOH=104.5
+
+—Link1—
+%chk-H2O_MC_EXC
+#p CASSCF(6,4,Nroot=2)/3-21G Guess(Read) Geom=Check Opt Freq
+
+First singlet excited state
+
+0 1
