@@ -20,15 +20,17 @@
 # Registers:
 
 # File marks:
-'0  697  0  ~/ch4scan.log
+'0  6  83  ~/ch4scan.log
+'1  697  0  ~/ch4scan.log
 
 # Jumplist (newest first):
--'  697  0  ~/ch4scan.log
+-'  6  83  ~/ch4scan.log
 -'  1  1  ~/ch4scan.log
+-'  697  0  ~/ch4scan.log
 
 # History of marks within files (newest to oldest):
 
 > ~/ch4scan.log
-	"	697	0
-	.	689	14
-	+	689	14
+	"	6	83
+	.	6	79
+	+	6	79
