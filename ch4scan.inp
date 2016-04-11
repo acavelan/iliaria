@@ -1,4 +1,4 @@
-#p uhf/6-31g Opt(Z-matrix)
+#p uhf/6-31g Opt(Z-matrix) Guess=(Always,Mix)
 
 CH4 C-H Scan
 
